@@ -7,3 +7,8 @@ i have done add , commt  still it havent showup in the github profile
 we need to push the 
 
 new bracnh is created named feature1
+
+
+
+now we need to merge the branches
+     
